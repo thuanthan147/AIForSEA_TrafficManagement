@@ -1,0 +1,5 @@
+https://www.kdnuggets.com/2017/11/automated-feature-engineering-time-series-data.html
+https://towardsdatascience.com/machine-learning-techniques-applied-to-stock-price-prediction-6c1994da8001
+https://machinelearningmastery.com/feature-selection-time-series-forecasting-python/
+https://machinelearningmastery.com/multi-step-time-series-forecasting/
+https://machinelearningmastery.com/time-series-forecasting-performance-measures-with-python/

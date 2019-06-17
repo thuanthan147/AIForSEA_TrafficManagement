@@ -1,0 +1,6 @@
+mlxtend
+sklearn
+numpy
+seaborn
+matplotlib
+plotly
